@@ -1,0 +1,15 @@
+.card{
+    animation: fadeIn 2s;
+    display: inline-block;
+    background-color: white;
+    text-align: center;
+    color: #3C3D3E;
+    width: 25%;
+    height: 400px;
+    margin: 5px 10px 5px 10px;
+    box-shadow: 2px 2px 5px 0px #B8ADA7;
+    flex-wrap: wrap;
+    position: relative;
+    align-self: flex-start;
+    overflow: auto;
+}
